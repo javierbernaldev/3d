@@ -1,0 +1,31 @@
+Cyber Ronin Sprite Pack — License
+Copyright (c) 2026 PavelEKh — https://pavelekh.itch.io/cyber-ronin
+
+In short: use these sprites in your own projects, free or commercial, and change them
+however you like. Just don't resell or re-share the sprites themselves.
+
+YOU MAY
+  1. Use the sprites in any number of projects, free or commercial: games, prototypes,
+     game jams, videos, streams, trailers and other media.
+  2. Modify them in any way: recolor, crop, resize, edit, combine, retime the animations.
+  3. Ship them inside your project's builds, even if a player could extract the files.
+  4. Share them with the people working on the same project with you.
+
+YOU MAY NOT
+  5. Sell, re-upload or give away the sprites themselves, original or modified, on their
+     own or as part of an asset pack, bundle, template, marketplace listing or similar
+     collection, where the sprites are the product rather than part of your project.
+  6. Present your project as the official Cyber Ronin game, or as made or endorsed by
+     the author, without permission.
+
+CREDIT
+  Not required, but appreciated: "Sprites: Cyber Ronin Sprite Pack by PavelEKh".
+
+NO WARRANTY
+  The sprites are provided "as is", without warranty of any kind. The author is not
+  liable for any claim or damage arising from their use.
+
+The sprites were made with the help of generative AI tools and then cut, cleaned up
+and edited by hand.
+
+Questions or a use not covered here: contact the author via the itch.io page above.
